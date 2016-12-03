@@ -1,0 +1,10 @@
+F:\Hoan\GitRepo\C#\TuVanQuaSinhNhat\TuVanQuaSinhNhat\bin\Debug\TuVanQuaSinhNhat.exe
+F:\Hoan\GitRepo\C#\TuVanQuaSinhNhat\TuVanQuaSinhNhat\bin\Debug\TuVanQuaSinhNhat.pdb
+F:\Hoan\GitRepo\C#\TuVanQuaSinhNhat\TuVanQuaSinhNhat\obj\Debug\TuVanQuaSinhNhat.form1.resources
+F:\Hoan\GitRepo\C#\TuVanQuaSinhNhat\TuVanQuaSinhNhat\obj\Debug\TuVanQuaSinhNhat.Properties.Resources.resources
+F:\Hoan\GitRepo\C#\TuVanQuaSinhNhat\TuVanQuaSinhNhat\obj\Debug\TuVanQuaSinhNhat.csproj.GenerateResource.Cache
+F:\Hoan\GitRepo\C#\TuVanQuaSinhNhat\TuVanQuaSinhNhat\obj\Debug\TuVanQuaSinhNhat.exe
+F:\Hoan\GitRepo\C#\TuVanQuaSinhNhat\TuVanQuaSinhNhat\obj\Debug\TuVanQuaSinhNhat.pdb
+F:\Hoan\GitRepo\C#\TuVanQuaSinhNhat\TuVanQuaSinhNhat\obj\Debug\TuVanQuaSinhNhat.Form2.resources
+F:\Hoan\GitRepo\C#\TuVanQuaSinhNhat\TuVanQuaSinhNhat\obj\Debug\TuVanQuaSinhNhat.Form3.resources
+F:\Hoan\GitRepo\C#\TuVanQuaSinhNhat\TuVanQuaSinhNhat\obj\Debug\TuVanQuaSinhNhat.csprojResolveAssemblyReference.cache
